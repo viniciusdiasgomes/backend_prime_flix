@@ -1,0 +1,47 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+.pnpm-debug.log
+
+# Diretórios de build
+dist/
+build/
+tmp/
+temp/
+
+# Ambiente
+.env
+.env.*.local
+
+# VS Code
+.vscode/
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Testes
+coverage/
+.nyc_output/
+
+# IDEs e editores
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# TypeScript
+*.tsbuildinfo
+
+# Outros
+*.tgz
+.cache/
+.parcel-cache/
